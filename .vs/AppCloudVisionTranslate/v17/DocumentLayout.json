@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\appcloudvisiontranslate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\appcloudvisiontranslate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\pages\\prueba.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\pages\\prueba.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|c:\\users\\damian portilla\\source\\repos\\appcloudvisiontranslate\\appcloudvisiontranslate\\models\\azurecognitiveoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA8262E-E90B-4C28-BF80-4CF5BDEB5CA7}|AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj|solutionrelative:appcloudvisiontranslate\\models\\azurecognitiveoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prueba.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Prueba.razor",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Pages\\Prueba.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Prueba.razor",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Pages\\Prueba.razor",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T18:29:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Counter.razor",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T18:46:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Error.razor",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T18:46:48.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\Index.razor",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T18:39:07.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppCloudVisionTranslate",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj",
+              "RelativeToolTip": "AppCloudVisionTranslate\\AppCloudVisionTranslate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T18:27:13.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\appsettings.json",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\appsettings.json",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\appsettings.json",
+              "RelativeToolTip": "AppCloudVisionTranslate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T18:21:02.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T18:33:49.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Program.cs",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Program.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Program.cs",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:15:50.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T18:30:32.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Components\\App.razor",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Components\\App.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T19:01:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureCognitiveOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Models\\AzureCognitiveOptions.cs",
+              "RelativeDocumentMoniker": "AppCloudVisionTranslate\\Models\\AzureCognitiveOptions.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\AppCloudVisionTranslate\\AppCloudVisionTranslate\\Models\\AzureCognitiveOptions.cs",
+              "RelativeToolTip": "AppCloudVisionTranslate\\Models\\AzureCognitiveOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:28:39.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿@page "/prueba"
+@using Microsoft.AspNetCore.Components.Forms
+
+<h3>Subir imagen y seleccionar idioma</h3>
+
+<InputFile OnChange="OnFileSelected" accept="image/*" />
+
+@if (fileSeleccionado is null)
+{
+    <p class="text-danger">No se ha seleccionado ninguna imagen.</p>
+}
+else
+{
+    <p class="text-success">Imagen seleccionada: <strong>@fileSeleccionado.Name</strong></p>
+}
+
+<label class="mt-3">Idioma destino:</label>
+<select class="form-select mb-3" @bind="idiomaSeleccionado">
+    <option disabled value="">Selecciona un idioma</option>
+    <option value="en">Inglés</option>
+    <option value="es">Español</option>
+    <option value="fr">Francés</option>
+</select>
+
+<button class="btn btn-primary" @onclick="Procesar" disabled="@(!PuedeProcesar)">
+    Procesar
+</button>
+
+@if (!string.IsNullOrEmpty(mensaje))
+{
+    <p class="mt-3">@mensaje</p>
+}
+
+@code {
+    private IBrowserFile? fileSeleccionado;
+    private string idiomaSeleccionado = "";
+    private string mensaje = "";
+
+    private bool PuedeProcesar => fileSeleccionado is not null && !string.IsNullOrEmpty(idiomaSeleccionado);
+
+    private void OnFileSelected(InputFileChangeEventArgs e)
+    {
+        fileSeleccionado = e.File;
+        mensaje = "";
+        StateHasChanged(); // fuerza render
+    }
+
+    private async Task Procesar()
+    {
+        mensaje = "Procesando imagen...";
+        await Task.Delay(1000); // Simulación
+        mensaje = $"Imagen '{fileSeleccionado?.Name}' procesada al idioma {idiomaSeleccionado}.";
+    }
+}
