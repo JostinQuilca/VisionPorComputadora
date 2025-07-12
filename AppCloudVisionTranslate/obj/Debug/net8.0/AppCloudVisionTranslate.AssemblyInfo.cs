@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppCloudVisionTranslate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a76f2bcaddfff9af68406cb8fefb865d6b8e7ac6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppCloudVisionTranslate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppCloudVisionTranslate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -21,6 +21,7 @@ C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTran
 C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\AppCloudVisionTranslate.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\AppCloudVisionTranslate.RazorAssemblyInfo.cache
 C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\AppCloudVisionTranslate.RazorAssemblyInfo.cs
+C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\AppCloudVisionTranslate.sourcelink.json
 C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\Damian Portilla\source\repos\AppCloudVisionTranslate\AppCloudVisionTranslate\obj\Debug\net8.0\scopedcss\bundle\AppCloudVisionTranslate.styles.css
